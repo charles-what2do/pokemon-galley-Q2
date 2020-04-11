@@ -12,3 +12,6 @@ git clone https://github.com/thoughtworks-jumpstart/pokemon-react-lab.git
 npm install
 npm start
 ```
+
+## Preview
+![image](preview.jpg)
